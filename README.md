@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning/improving React 
 - ⚛️ JavaScript & HTML & CSS | React | TypeScript
 - ⚡ Fun fact: I'm a Environmental & Sanitary Engineer. On 2021 April 21th i've found the love for coding & programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📫 How to reach me: <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="25em" align="center"></a> <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="25em" align="center"></a>
+- 📫 How to reach me: <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="25em" align="center"></a> <a href="https://www.linkedin.com/in/matheus-betti-626601129/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="25em" align="center"></a>
 
 <div align="center">
   <a href="https://github.com/MatheusBetti">
