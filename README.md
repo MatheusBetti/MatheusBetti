@@ -6,10 +6,10 @@
 - ⚡ Fun fact: I'm a Environmental & Sanitary Engineer. On 2021 April 21th i've found the love for coding & programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📫 How to reach me: <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="25em" align="center"></a> <a href="https://www.linkedin.com/in/matheus-betti-626601129/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="25em" align="center"></a>
 
-<div style="display: inline_block">
+<div align="center">
   <a href="https://github.com/MatheusBetti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusBetti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBetti&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" left src="https://github-readme-stats.vercel.app/api?username=MatheusBetti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" right src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBetti&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   ##
