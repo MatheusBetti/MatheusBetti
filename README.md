@@ -1,7 +1,7 @@
 ### Hi!! I'm Matheus! 👋
 
 - 🔭 I’m currently working as a SAP C4C Consultant;
-- 🌱 I’m currently learning/improving React 
+- 🌱 I’m currently learning/improving Angular
 - ⚛️ JavaScript & HTML & CSS | React | TypeScript
 - ⚡ Fun fact: I'm a Environmental & Sanitary Engineer. On April 2021 i've found the love for coding & programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - <a href="https://www.linkedin.com/in/matheus-betti-626601129/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="25em" align="center"></a>
